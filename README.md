@@ -1,4 +1,4 @@
-# Data science technical-test
+# Data science (machine learning algorithm for patients)
 
 ## Repository content
 
